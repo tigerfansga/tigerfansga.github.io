@@ -1,0 +1,4 @@
+baseURL = 'http://blog.welovelsu.com/'
+languageCode = 'en-us'
+title = "Mark's Musings"
+theme = "ananke"
