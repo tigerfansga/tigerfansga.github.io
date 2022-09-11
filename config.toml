@@ -2,6 +2,7 @@ baseURL = 'http://blog.welovelsu.com/'
 languageCode = 'en-us'
 title = "Mark's Musings"
 theme = "ananke"
+SectionPagesMenu = "main"
 [params]
   AuthorName = 'Mark Curole'
   GitHubUser = 'tigerfansga'
