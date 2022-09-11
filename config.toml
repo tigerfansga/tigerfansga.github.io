@@ -2,3 +2,10 @@ baseURL = 'http://blog.welovelsu.com/'
 languageCode = 'en-us'
 title = "Mark's Musings"
 theme = "ananke"
+[params]
+  AuthorName = 'Mark Curole'
+  GitHubUser = 'tigerfansga'
+  SidebarRecentLimit = 5
+  Subtitle = 'JUST MY RANDOM THOUGHTS ON LIFE, FAMILY, WORK AND LSU SPORTS'
+[permalinks]
+  posts = '/:year/:month/:title/'
