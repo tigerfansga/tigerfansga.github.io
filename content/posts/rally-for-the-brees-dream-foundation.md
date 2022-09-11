@@ -1,7 +1,7 @@
 ---
 title: "Rally for the Brees Dream Foundation"
 date: 2022-09-02T18:56:05-04:00
-draft: true
+draft: false
 featured_image: "https://alltroo.com/wp-content/uploads/2022/06/usatsi_15360162_168388561_lowres.jpeg"
 ---
 
