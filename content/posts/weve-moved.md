@@ -2,6 +2,7 @@
 title: "We've Moved"
 date: 2022-09-11T20:05:10-04:00
 draft: false
+tags: ["blog","hugo","Wordpress"]
 ---
 
 It's been just over two weeks since I started this blog. My original plan was to use [Wordpress](https://wordpress.org) to manage my site.

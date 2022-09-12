@@ -2,6 +2,7 @@
 title: "Day 1"
 date: 2022-08-26T18:48:48-04:00
 draft: false
+tags: ["blog","Wordpress"]
 ---
 
 I’ve been an IT professional for 28 years, sports fanatic for 50 years 😱, a father for 27 years and a husband for 33 years. And now I’m a blogger for one day.
