@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "Mark's Musings"
 theme = "ananke"
 SectionPagesMenu = "main"
+googleAnalytics = 'G-2P94VCVLQK'
 [params]
   AuthorName = 'Mark Curole'
   GitHubUser = 'tigerfansga'
