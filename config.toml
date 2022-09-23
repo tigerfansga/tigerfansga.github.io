@@ -10,5 +10,14 @@ disqusShortname = 'welovelsu'
   GitHubUser = 'tigerfansga'
   SidebarRecentLimit = 5
   Subtitle = 'JUST MY RANDOM THOUGHTS ON LIFE, FAMILY, WORK AND LSU SPORTS'
+
+  [[params.ananke_socials]]
+    name = "twitter"
+    url = "https://twitter.com/GaTigerFanatic"
+
+  [[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/tigerfansga"
+
 [permalinks]
   posts = '/:year/:month/:title/'
