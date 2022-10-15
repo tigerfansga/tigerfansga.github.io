@@ -2,6 +2,7 @@
 title: "Azure Adminstrator Certification Passed"
 date: 2022-10-14T20:32:31-04:00
 draft: false
+featured_image: 'https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg'
 ---
 
 After nearly two months of studying and taking practice tests, I took and passed my [AZ-104](https://learn.microsoft.com/en-us/certifications/exams/az-104) exam to receive my [Azure Adminstrator Associate](https://www.credly.com/badges/ca363cc7-51c1-42aa-9763-868793f2e2f8/public_url) certification.
